@@ -1,0 +1,14 @@
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\bin\Debug\net6.0\Lists_Morgan_Daniel.exe
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\bin\Debug\net6.0\Lists_Morgan_Daniel.deps.json
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\bin\Debug\net6.0\Lists_Morgan_Daniel.runtimeconfig.json
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\bin\Debug\net6.0\Lists_Morgan_Daniel.dll
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\bin\Debug\net6.0\Lists_Morgan_Daniel.pdb
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.AssemblyInfoInputs.cache
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.AssemblyInfo.cs
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.csproj.CoreCompileInputs.cache
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.dll
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\refint\Lists_Morgan_Daniel.dll
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.pdb
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\Lists_Morgan_Daniel.genruntimeconfig.cache
+C:\Users\DanielMorgan\source\repos\Lists_Morgan_Daniel\obj\Debug\net6.0\ref\Lists_Morgan_Daniel.dll
